@@ -1,0 +1,54 @@
+body{
+	height:100%;
+}
+
+html{
+  height:100%;
+}
+
+
+.logo{
+	padding-top:42px;
+	padding-left:40px;
+	padding-right:40px;
+}
+
+a{
+	margin-left:0px;
+}
+
+img{
+	margin-left:0px;
+}
+
+.barranavegacao{
+  background-color:#E55819;
+  height:20%;
+
+}
+
+.paddingnav{
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.cordolinknav{
+  color:white;
+}
+
+.hero{
+  height:60%;
+  background-color:#E55819;
+}
+
+.galeria{
+  height:130%;
+  border:2px solid red;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
