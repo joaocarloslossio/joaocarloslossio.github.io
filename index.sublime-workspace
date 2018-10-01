@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"WI",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"navba",
+				"navbar3"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joaocarlos/Documents/05-AgencyDolphi/css/infinite-slider.css",
+		"/Users/joaocarlos/Documents/05-AgencyDolphi/js/carousel.js",
+		"/Users/joaocarlos/Documents/05-AgencyDolphi/index.html",
+		"/Users/joaocarlos/Documents/01-Site_Portifolio/css/mystile.css",
+		"/Users/joaocarlos/Documents/01-Site_Portifolio/css/bootstrap.css",
+		"/Users/joaocarlos/Documents/01-Site_Portifolio/index.html",
+		"/Users/joaocarlos/Documents/03-CursoHtml5/bio.html",
+		"/Users/joaocarlos/Documents/03-CursoHtml5/site.css",
+		"/Users/joaocarlos/Documents/05-AgencyDolphi/css/style.css",
+		"/Users/joaocarlos/Documents/03-CursoHtml5/blog.html",
+		"/Users/joaocarlos/Documents/03-CursoHtml5/normalize.css",
+		"/Users/joaocarlos/Documents/Alura_Curso_Html5/bio.txt",
+		"/Users/joaocarlos/Documents/Alura_Curso_Html5/blog.html",
+		"/Users/joaocarlos/Documents/Alura_Curso_Html5/eu.jpg",
+		"/Users/joaocarlos/Documents/Alura_Curso_Html5/site.css",
+		"/Users/joaocarlos/Documents/Alura_Curso_Html5/index.html",
+		"/Users/joaocarlos/Documents/02-Carometro/style.css",
+		"/Users/joaocarlos/Documents/02-Carometro/search.js",
+		"/Users/joaocarlos/Documents/02-Carometro/index.html",
+		"/Users/joaocarlos/Documents/02-Carometro/table.html",
+		"/Users/joaocarlos/Documents/sitedce/index.html",
+		"/Users/joaocarlos/Documents/01-Site_Portifolio/css/personalstyle.css",
+		"/Users/joaocarlos/Documents/cursos_alura/alertas.html",
+		"/Users/joaocarlos/Documents/sitedce/equipe.html",
+		"/Users/joaocarlos/Documents/hiragi",
+		"/Users/joaocarlos/Desktop/sitedce/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
