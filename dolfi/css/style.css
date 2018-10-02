@@ -1497,9 +1497,8 @@ header {
   height: 40px;
   line-height: 40px;
   text-align: center;
-  border-radius: 3px;
-  background-color: #f3a200;
-  color:#FFF;
+  color:#fff;
+  font-size:15px
 }
 
 .footer-copyright p {
