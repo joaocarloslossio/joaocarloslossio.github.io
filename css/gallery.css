@@ -2,11 +2,6 @@
     width: 80%; margin: 0 auto; max-height: 100%; position: relative; z-index: 20;
     }
 
-.textomeio{
-    text-align:center;
-}
-
-    -------------------------------------------- */ 
-h1{
-    
+.estilo{
+	width:30%;border:2px solid red;display:inline-block;
 }
