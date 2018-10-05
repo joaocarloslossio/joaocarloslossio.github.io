@@ -3,5 +3,7 @@
     }
 
 .estilo{
-	width:30%;border:2px solid red;display:inline-block;
+	border:2px solid #A4A4A4;
+	background-color:#CDCDCD;
+	height:200px;
 }
