@@ -3,7 +3,21 @@
     }
 
 .estilo{
-	border:2px solid #A4A4A4;
-	background-color:#CDCDCD;
+	background-color:#f3a200;
 	height:200px;
+
+}
+
+.logoport{
+	margin: 0 auto;
+	width:35%;
+
+}
+
+.containerflex{
+	display:flex;
+}
+
+.center {
+	align-items: center;
 }
